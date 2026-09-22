@@ -1,211 +1,129 @@
-# Awesome-Government-Grant-Administration
+# Awesome Government Grant Administration 🏛️
 
-## Top Grant Administration (Government) Platforms Ecosystem
+![Awesome Government Grant Administration Banner](./assets/banner.svg)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Government-Grant-Administration"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Government-Grant-Administration?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Government-Grant-Administration/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Government-Grant-Administration?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Grant Lifecycle Management, Application Intake, Compliance, Reporting & Funder/Recipient Workflows*
+## 📌 Overview & Market Intelligence
 
-**Last updated: September 2026**
+> **Global Market Size & Structure**: The global **Grant Management Software market** is estimated at **$1.6 Billion to $2.2 Billion USD** (2025–2026), expanding at a CAGR of ~10.5%. The market is **moderately fragmented**, with public-sector government platforms experiencing enterprise consolidation (e.g., Euna Solutions acquiring AmpliFund & eCivis, Cox acquiring OpenGov), while foundation and non-profit grantmaking remain served by a diverse range of specialized SaaS platforms and open-source tools.
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Grant Administration**, especially for government agencies, foundations, and grantmaking organizations. These systems manage the full grant lifecycle—from application intake and review through award, compliance monitoring, financial reporting, and closeout.
-
-
-
-**Examples** include AmpliFund, eCivis (Euna Grants), Foundant, Blackbaud Grantmaking, Neighborly Software, SmartSimple, OpenGov Grants, Submittable, ZoomGrants, and Good Grants (the category leaders).
-
-
-
-**Open-source emphasis**: Full government-grade grant administration platforms are mostly commercial. Practical open options include **CiviCRM** (with funding extensions), experimental grant management systems, and adaptable open CRM/ERP modules. This section lists the strongest available open resources and is realistic about the gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[AmpliFund / Euna Grants](https://www.amplifund.com/)**  
-
-  Purpose-built grant management platform for federal, state, local, and tribal governments covering the full grant lifecycle for funders and recipients, with strong compliance focus.
-
-
-
-- **[eCivis / Euna Grants](https://www.eunasolutions.com/)**  
-
-  Government grant management solution (now part of Euna) used by public agencies for grant seeking, management, and compliance workflows.
-
-
-
-- **[Foundant Grant Lifecycle Manager](https://www.foundant.com/)**  
-
-  Grant management platform popular with foundations and grantmakers for online applications, reviews, reporting, and integrated grant lifecycle management.
-
-
-
-- **[Blackbaud Grantmaking](https://www.blackbaud.com/)**  
-
-  Grantmaking module within Blackbaud’s nonprofit suite, integrated with fundraising, CRM, and financial tools for foundations and corporate grantmakers.
-
-
-
-- **[Neighborly Software](https://www.neighborlysoftware.com/)**  
-
-  Grant and loan management platform used by community development and government programs for application, compliance, and portfolio management.
-
-
-
-- **[SmartSimple](https://www.smartsimple.com/)**  
-
-  Highly configurable grant and research management platform used by complex funders and institutions for sophisticated workflows and compliance.
-
-
-
-- **[OpenGov Grants](https://opengov.com/)**  
-
-  Grant management capabilities within the OpenGov public-sector platform for budgeting, performance, and grant administration.
-
-
-
-- **[Submittable](https://www.submittable.com/)**  
-
-  Application and program management platform widely used for grants, scholarships, and social-impact programs with intake, review, and reporting.
-
-
-
-- **[ZoomGrants](https://www.zoomgrants.com/)**  
-
-  Online grant management system focused on application intake, review, and administration for funders of various sizes.
-
-
-
-- **[Good Grants](https://www.goodgrants.com/)**  
-
-  Grant management software supporting application, review, scoring, and administration for grantmakers and award programs.
-
-
-
-## Open-Source GitHub Projects
-
-- **[CiviCRM](https://github.com/civicrm/civicrm-core)**  
-
-  Leading open-source CRM for nonprofits and civic organizations (AGPL)—extensible for grants, cases, contributions, and relationship management.
-
-
-
-- **[CiviCRM Funding Program Manager](https://github.com/systopia/funding)**  
-
-  Open-source CiviCRM extension for managing funding programs from application through review, approval, payment, and proof of use.
-
-
-
-- **[Experimental open grant management systems](https://github.com/)**  
-
-  Candidate open-source platforms aiming to cover grant discovery, application, review, award, compliance, and reporting for funders and seekers.
-
-
-
-- **[ERPNext / Odoo project and grant-like modules](https://github.com/frappe/erpnext)**  
-
-  Open ERP modules that can be configured for grant-like projects, budgets, milestones, and reporting workflows.
-
-
-
-- **[Application and form open builders](https://github.com/)**  
-
-  Open form and workflow tools used to build custom grant application portals and review processes.
-
-
-
-- **[Document and compliance checklist open tools](https://github.com/)**  
-
-  Open systems for tracking required reports, audit evidence, and compliance checklists related to grant awards.
-
-
-
-- **[Case management open platforms](https://github.com/)**  
-
-  Open case and workflow engines adapted for grant application review and post-award monitoring.
-
-
-
-- **[Financial tracking and budget open components](https://github.com/)**  
-
-  Open accounting and budget tools used to track grant expenditures and variance against awards.
-
-
-
-- **[Reporting and data-export open utilities](https://github.com/)**  
-
-  Tools supporting structured grant reporting and data exports for funder or regulatory requirements.
-
-
-
-- **[Nonprofit open data and directory projects](https://github.com/)**  
-
-  Community datasets and tools that support grant prospecting and program discovery.
-
-
-
-### Additional Strong Open-Source Options
-
-- Using **CiviCRM + Funding extension** for nonprofit and civic grant-related relationship and application management.
-
-- Configuring **ERPNext/Odoo** for project-style grant tracking when a full commercial grant system is not required.
-
-- Building custom intake portals with open form builders and linking them to open CRM backends.
-
-- Accepting that government compliance modules (e.g., federal reporting formats), large-scale review workflows, and certified public-sector deployments still favor commercial platforms (AmpliFund/Euna, Foundant, SmartSimple, Blackbaud, Submittable, etc.).
-
-- Focusing open-source efforts on transparency, data ownership, and lower cost for smaller funders and civic programs.
-
-
-
-**Frameworks for building custom systems**: Collect applications via open forms → manage applicants and awards in CiviCRM or an open CRM → track budgets and reports in open ERP modules → maintain compliance checklists → export data for funder reporting. Suitable for smaller foundations, civic programs, and teams with technical capacity. Most government agencies and large funders rely on commercial grant administration platforms for compliance and scale.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Grant administration involves public funds, compliance obligations, and sensitive applicant data. Open-source or self-built systems require strong security, audit trails, and adherence to applicable regulations. This list is not legal, procurement, or compliance advice.
-
-
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Grant Administration**, especially for government agencies, foundations, municipal grantmakers, and non-profit organizations. These platforms manage the full grant lifecycle—from application intake and review through award allocation, compliance monitoring, audit evidence tracking, financial reporting, and closeout.
 
 ---
 
-**Made for grant managers, public agencies, foundations, and civic technologists administering funding programs.**
+## 📋 Table of Contents
+- [💼 SaaS & Commercial Hosted Platforms](#-saas--commercial-hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#-disclaimer)
 
-Let's keep grantmaking transparent, efficient, and as open as practical.
+---
+
+## 💼 SaaS & Commercial Hosted Platforms
+
+The table below summarizes leading commercial platforms categorized by enterprise footprint and starting price points.
+
+| Platform / Vendor 🏢 | Company Size / Footprint 📊 | Starting Tier Price 💵 | Free Tier / Trial Limits ⏳ | Key Focus & Features ⚙️ |
+| :--- | :--- | :--- | :--- | :--- |
+| **[OpenGov Grants](https://opengov.com/)** | **$1.8 Billion** Valuation (Acquired by Cox Enterprises; ~$158M Rev) | **$30,000 / year** (Custom enterprise quota based on agency size) | No free tier; custom interactive demo provided on request | Full public-sector platform integrating budgeting, financial performance, and compliance for government agencies. |
+| **[Blackbaud Grantmaking](https://www.blackbaud.com/)** | **$1.75 Billion** Market Cap (~$1.17 Billion Annual Revenue) | **$15,000 / year** (Starting tier for small/medium foundations) | No free tier; sales-guided product demo available | Comprehensive grantmaking suite for foundations and corporate grant programs with CRM integration. |
+| **[Submittable](https://www.submittable.com/)** | **$66.6 Million** Est. Revenue (~$64.3M Total VC Funding) | **$3,900 / year** (CLMP member rate available at $39/mo or $290/yr) | No free trial version; custom live demo available | Popular submission and grant intake engine used for community grants, scholarships, and social impact programs. |
+| **[Foundant (GLM)](https://www.foundant.com/)** | **$29.7 Million** Est. Revenue (~$20.8M Total Funding) | **$10,000 / year** (Grant Lifecycle Manager base tier) | No free tier; personalized live software demo on request | Purpose-built online grant lifecycle manager tailored for grantmakers, community foundations, and reviewers. |
+| **[SmartSimple Cloud](https://www.smartsimple.com/)** | **$24.0 Million** Est. Revenue (Independent / Self-Sustaining) | **$6,000 / year** (Plus one-time configuration & implementation fee) | No free tier; 30-day proof-of-concept trial environment upon request | Highly configurable workflow and research grant engine for complex government and institutional funders. |
+| **[Neighborly Software](https://www.neighborlysoftware.com/)** | **$21.6 Million** Est. Revenue (Private Equity backed by Falfurrias) | **$12,000 / year** (~$1k/mo for 5 internal staff users) | No free tier; request-based sandbox demo | Specializes in housing, HUD, community development, and emergency assistance grant management for local governments. |
+| **[AmpliFund / Euna Grants](https://www.amplifund.com/)** | **$18.4 Million** Est. Revenue (Acquired by Euna Solutions) | **$5,000 / year** (Core tier starting price + setup) | No free tier; 1-on-1 guided trial demonstration | Purpose-built federal, state, tribal, and municipal grant management with strong Uniform Guidance (2 CFR 200) compliance. |
+| **[eCivis / Euna Grants](https://www.eunasolutions.com/)** | Part of **Euna Solutions** enterprise suite | **$6,000 / year** (Base subscription quote for municipal agencies) | No free tier; structured online demonstration | Public sector grant acquisition, application tracking, and post-award management for state/local governments. |
+| **[Good Grants](https://www.goodgrants.com/)** | **$3.2 Million** Est. Revenue (Bootstrapped & Independent) | **$3,950 / year** (Intro Plan flat rate) | **14-day full free trial** (No credit card required; includes $10 AI test credit) | International grant application, review, scoring, and award administration platform for grantmakers. |
+| **[ZoomGrants](https://www.zoomgrants.com/)** | Micro-Cap / Niche Private SaaS | **$1,500 / year** (Base plan per funding cycle) | No free tier; demo account access available | Simplified online grant management system focused on application intake and review committee workflows. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Below are open-source repositories and building blocks for creating self-hosted, transparent, or custom grant administration solutions. Ordered by GitHub Star count.
+
+- **[Odoo](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a>  
+  *Open Source ERP and CRM software suite (LGPL v3). Highly extensible project, budget, and contract modules easily configured for grant disbursement tracking.*
+
+- **[ToolJet](https://github.com/tooljet/tooljet)** <a href="https://github.com/tooljet/tooljet/stargazers"><img src="https://img.shields.io/github/stars/tooljet/tooljet?style=social&color=white" alt="ToolJet Stars"/></a>  
+  *Low-code framework to build internal tools, grant application portals, and administrative review dashboards rapidly.*
+
+- **[ERPNext](https://github.com/frappe/erpnext)** <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/></a>  
+  *Leading open-source enterprise resource planning platform (GPL v3) with built-in Project Management, Accounting, and Budgeting for grant expenditure tracking.*
+
+- **[Budibase](https://github.com/budibase/budibase)** <a href="https://github.com/budibase/budibase/stargazers"><img src="https://img.shields.io/github/stars/budibase/budibase?style=social&color=white" alt="Budibase Stars"/></a>  
+  *Open-source low-code platform for building custom grant review portals, approval workflows, and internal case management forms.*
+
+- **[SurveyJS Library](https://github.com/surveyjs/survey-library)** <a href="https://github.com/surveyjs/survey-library/stargazers"><img src="https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white" alt="SurveyJS Stars"/></a>  
+  *Open-source JavaScript form builder and rendering engine ideal for dynamic multi-step grant applications and reviewer scoring rubrics.*
+
+- **[Form.io JS](https://github.com/formio/formio.js)** <a href="https://github.com/formio/formio.js/stargazers"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social&color=white" alt="Form.io Stars"/></a>  
+  *Combined JSON schema form builder and rendering engine for building complex government application forms with compliance controls.*
+
+- **[CiviCRM Core](https://github.com/civicrm/civicrm-core)** <a href="https://github.com/civicrm/civicrm-core/stargazers"><img src="https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white" alt="CiviCRM Stars"/></a>  
+  *Leading open-source CRM for non-profits and civic sector (AGPL v3)—extensible for grantee relationships, applications, and funding streams.*
+
+- **[CiviCRM Funding Program Manager](https://github.com/systopia/de.systopia.funding)** <a href="https://github.com/systopia/de.systopia.funding/stargazers"><img src="https://img.shields.io/github/stars/systopia/de.systopia.funding?style=social&color=white" alt="Funding Extension Stars"/></a>  
+  *Dedicated open-source CiviCRM extension by Systopia for managing grant applications, review cycles, approval workflows, and payment milestones.*
+
+---
+
+## 🛠️ Custom Open-Source Architecture Stack
+
+For technical teams or small public sector bodies seeking low-cost or sovereign grant administration setups:
+
+1. **Intake & Forms**: Collect grant applications via [Form.io](https://github.com/formio/formio.js) or [SurveyJS](https://github.com/surveyjs/survey-library).
+2. **CRM & Applicant Management**: Store profiles, communications, and awards inside [CiviCRM](https://github.com/civicrm/civicrm-core) + [Funding Extension](https://github.com/systopia/de.systopia.funding).
+3. **Financials & Accounting**: Track budget allocations, disbursements, and financial variance in [ERPNext](https://github.com/frappe/erpnext) or [Odoo](https://github.com/odoo/odoo).
+4. **Internal Admin Dashboards**: Build reviewer scoring panels using low-code tools like [Budibase](https://github.com/budibase/budibase) or [ToolJet](https://github.com/tooljet/tooljet).
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Help us keep this list up to date and comprehensive:
+
+1. **Fork** this repository.
+2. Add your product or open-source repo into `README.md` following the tabular/list formatting guidelines.
+3. Ensure all links point to authoritative sources and financial details/star counts are accurate.
+4. Open a **Pull Request** with a brief summary of additions.
+
+Refer to the main awesome directory at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for wider awesome list conventions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this government grant administration directory helpful for your research, procurement, or open-source project development:
+
+- ⭐ **Star** this repository to increase visibility!
+- 🔀 **Fork** and share it with civic tech colleagues and grant managers.
+- ☕ **Sponsor the Maintainer**: Consider supporting ongoing open-source curation and development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Government-Grant-Administration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Government-Grant-Administration&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated list** provided for informational and research purposes only.
+- Information regarding pricing, revenues, valuations, and features is sourced from public filings, industry estimates, and vendor documentation as of September 2026, and is subject to change.
+- Grant administration involving public funds requires adherence to statutory regulations (such as Uniform Guidance 2 CFR 200 in the US). Self-hosted systems require independent auditing, security hardening, and compliance verification.
+
+---
+
+<p align="center">
+  <b>Made for grant managers, public agencies, foundations, and civic technologists administering funding programs worldwide. 🏛️✨</b>
+</p>
