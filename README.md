@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Government-Grant-Administration"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Government-Grant-Administration?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Government-Grant-Administration"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Government-Grant-Administration?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Government-Grant-Administration/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Government-Grant-Administration?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -48,7 +48,7 @@ The table below summarizes leading commercial platforms categorized by enterpris
 
 ## 💻 Open-Source GitHub Projects
 
-Below are open-source repositories and building blocks for creating self-hosted, transparent, or custom grant administration solutions. Ordered by GitHub Star count.
+Below are open-source repositories and building blocks for creating self-hosted, transparent, or custom grant administration solutions. Ordered by GitHub Stars_Count.
 
 - **[Odoo](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a>  
   *Open Source ERP and CRM software suite (LGPL v3). Highly extensible project, budget, and contract modules easily configured for grant disbursement tracking.*
@@ -93,7 +93,7 @@ Contributions are welcome! Help us keep this list up to date and comprehensive:
 
 1. **Fork** this repository.
 2. Add your product or open-source repo into `README.md` following the tabular/list formatting guidelines.
-3. Ensure all links point to authoritative sources and financial details/star counts are accurate.
+3. Ensure all links point to authoritative sources and financial details/Stars_Counts are accurate.
 4. Open a **Pull Request** with a brief summary of additions.
 
 Refer to the main awesome directory at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for wider awesome list conventions.
